@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Teulada",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-06-28T22:17:57.983Z",
+      "notes": "s",
+      "position": {
+        "lat": "38.74061755363733",
+        "lng": "0.087890625"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Fuensalida",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-06-28T22:19:46.984Z",
+      "notes": "s",
+      "position": {
+        "lat": "40.03040099447284",
+        "lng": "-4.130859375000001"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Malpartida de Plasencia",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-06-28T22:31:29.577Z",
+      "notes": "t",
+      "position": {
+        "lat": "40.03041175315952",
+        "lng": "-5.976435585937502"
+      },
+      "id": 3
+    }
+  ]
+}
